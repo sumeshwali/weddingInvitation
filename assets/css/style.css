@@ -81,9 +81,9 @@ a:active {
 .navbar-main a:active,
 .navbar-main a:focus,
 .navbar-main a.is-active {
-  background: none !important;
-  color: inherit;
-  border-bottom: 2px solid #fff;
+  background: #00bcff !important;
+  color: white;
+  border-bottom: 2px solid black;
 }
 
 .navbar-main .submenu {
